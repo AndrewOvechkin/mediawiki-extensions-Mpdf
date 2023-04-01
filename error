@@ -1,0 +1,1 @@
+[php:error] [pid 4629] [client 173.34.9.136:52654] PHP Fatal error:  Array and string offset access syntax with curly braces is no longer supported in /usr/share/mediawiki/extensions/Mpdf/vendor/mpdf/mpdf/mpdf.php on line 2349
